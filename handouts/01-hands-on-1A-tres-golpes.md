@@ -8,7 +8,7 @@
 
 1. No Claude app: **Settings → Connectors**.
 2. Autorizar **Google Workspace** (Gmail + Calendar + Drive).
-3. Confirmar com Manos que conectou. _Sem isso, exercício 1 trava._
+3. Confirmar com Bruno que conectou. _Sem isso, exercício 1 trava._
 
 > ⚠ Se a auth do Google falhar: pule o exercício 1 e vá direto pro 2.
 
@@ -40,7 +40,7 @@ São Paulo, primeira contratação tech da empresa?
 
 **Wow do exercício:** skill **OFICIAL Anthropic + Partners** (bundle "Human resources" no Marketplace in-app, 4.0★). Comando salvo, procedimento estruturado, output em <2min. ChatGPT não tem skill — exige prompt do zero toda vez.
 
-### Variantes — Manos abre 1 minuto pra escolha por cadeira
+### Variantes — Bruno abre 1 minuto pra escolha por cadeira
 
 #### 📊 RH (bundle "Human resources")
 | Comando | O que faz |
@@ -93,11 +93,11 @@ board, e drafte (sem enviar) a pauta dela em um e-mail novo.
 
 ## Fechamento (2 min)
 
-Manos pergunta à sala: _"Qual dos três te chocou mais?"_ — colhe 3-4 reações antes do almoço.
+Bruno pergunta à sala: _"Qual dos três te chocou mais?"_ — colhe 3-4 reações antes do almoço.
 
 ---
 
-### Folha de troubleshooting (lateral pro Manos circular)
+### Folha de troubleshooting (lateral pro Bruno circular)
 
 | Sintoma | Provável causa | Atalho |
 |---|---|---|
