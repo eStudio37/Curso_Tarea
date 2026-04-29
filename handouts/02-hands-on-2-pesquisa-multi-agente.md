@@ -19,15 +19,6 @@ Cole o prompt abaixo no Claude. Execute. Leia o output. Anote: **quantas afirma�
 ```
 Quero entender os riscos de usar IA agêntica para triagem de candidatos
 no processo de recrutamento no Brasil em 2026.
-
-Considere três dimensões:
-- Riscos jurídicos (LGPD, marco regulatório de IA, jurisprudência
-  trabalhista sobre seleção automatizada)
-- Riscos operacionais e de mercado (quem está adotando, falhas conhecidas,
-  métricas de viés)
-- Riscos identificados pela academia (estudos sobre validação preditiva,
-  bias algorítmico, fairness)
-
 Produza um relatório de uma página. Cite fontes onde possível.
 ```
 
