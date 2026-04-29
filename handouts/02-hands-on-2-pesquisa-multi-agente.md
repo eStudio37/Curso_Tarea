@@ -21,7 +21,7 @@ Quero entender os riscos de usar IA agêntica para triagem de candidatos
 no processo de recrutamento no Brasil em 2026.
 Produza um relatório de uma página. Cite fontes onde possível.
 IMPORTANTE:
-Não use subagentes. Quero que você faça a pesquisa.
+Não use sub-agentes. Quero que você faça a pesquisa.
 ```
 
 **Anote:** o que ele afirma com confiança? Onde você não saberia validar?
