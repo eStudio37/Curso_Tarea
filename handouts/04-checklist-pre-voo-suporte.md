@@ -1,5 +1,4 @@
-# Checklist de Pré-Voo — Suporte (Bruno / Arenusa)
-
+# Checklist de Pré-Voo — Suporte
 > **15 minutos antes do início (09:15–09:30).** Vocês circulam pela sala enquanto Manos prepara o setup do projetor. Objetivo: nenhum attendee chega no Wow Demo (09:35) sem o Claude app instalado e logado.
 
 ---
