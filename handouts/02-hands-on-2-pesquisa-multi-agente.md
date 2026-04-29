@@ -66,7 +66,7 @@ Depois que os três terminarem:
 
 ## Debrief — 5 min
 
-Manos pergunta à sala:
+Bruno pergunta à sala:
 
 1. **Quais riscos apareceram nos 3 agentes?** _(intersecção = confiança alta)_
 2. **Quais riscos só 1 agente apontou?** _(unique signal = verificar manualmente)_
