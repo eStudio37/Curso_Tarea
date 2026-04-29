@@ -1,0 +1,31 @@
+Fornecedor,CNPJ,Categoria,Valor_Anual_BRL,Data_Inicio,Data_Renovacao,Status_Compliance,Responsavel_Interno
+TransPetro Distribuidora Ltda,12.345.678/0001-90,Combustível,3850000,15/03/2022,15/03/2026,A,Marcos Ferreira
+Verena Combustíveis S.A.,98.765.432/0001-21,Combustível,2140000,01/06/2021,01-06-2026,A,Marcos Ferreira
+MecCar Auto Center,45678901000155,Manutenção de Frota,890000,22/11/2020,22/11/2025,A,Gustavo Almeida
+Atlas Pneus do Brasil,11.222.333/0001-44,Pneus,1250000,07/04/2023,07/04/2026,B,Gustavo Almeida
+Sigma TI Soluções,55.666.777/0001-88,TI/Software,720000,10 de janeiro de 2024,10/01/2027,A,Patricia Andrade
+Brasleo Lubrificantes Ltda,33.444.555/0001-66,Peças,310000,03/02/2023,03-02-2026,B,Gustavo Almeida
+NetCom Telecom,22.333.444/0001-55,Telecom,485000,2024-05-12,12/05/2027,N/A,Patricia Andrade
+LimpaTudo Serviços,77888999000122,Limpeza,68000,18/09/2024,18/09/2025,C,Adriana Lopes
+Vigilância Bandeirante,66.777.888/0001-99,Segurança,420000,30/07/2022,30/07/2026,B,Rafael Camargo
+EcoReversa Logística,12.987.654/0001-33,Logística Reversa,156000,14/08/2023,14-08-2026,B,Rafael Camargo
+ArmazemPro Terceirizada,88.999.000/0001-11,Armazenagem Terceirizada,1980000,05/05/2021,05/05/2026,A,Marcos Ferreira
+Capacita Treinamentos,99.000.111/0001-22,Treinamento,42000,11/03/2024,,B,Adriana Lopes
+Mendes & Associados Advocacia,10.111.222/0001-33,Consultoria Jurídica,380000,20/10/2022,20/10/2025,B,Patricia Andrade
+KPM Auditoria Independente,20.333.444/0001-55,Auditoria,610000,01/01/2023,01/01/2026,B,Patricia Andrade
+Studio Marketing 360,30.444.555/0001-66,Marketing,95000,12 de fevereiro de 2024,12/02/2026,C,Adriana Lopes
+RotaCerta Frete Fracionado,40.555.666/0001-77,Frete Fracionado,1450000,25/06/2022,25/06/2026,A,Marcos Ferreira
+oliveira peças e acessórios,50666777000188,Peças,87000,03/12/2023,03/12/2025,C,Gustavo Almeida
+PneuMax Distribuidora,60.777.888/0001-99,Pneus,210000,17/04/2024,17-04-2026,B,Gustavo Almeida
+DataCloud Brasil,70.888.999/0001-00,TI/Software,540000,09/09/2023,09/09/2026,A,Patricia Andrade
+Telefonix Corporativo,80.999.000/0001-11,Telecom,75000,28/01/2024,28/01/2026,N/A,Patricia Andrade
+Faxina Express,90.000.111/0001-22,Limpeza,38000,,15/06/2025,C,Adriana Lopes
+Guarda Real Segurança,11.222.444/0001-55,Segurança,128000,06/05/2023,06-05-2026,A,Rafael Camargo
+Reverso Verde Ambiental,22.333.555/0001-66,Logística Reversa,52000,19/07/2024,19/07/2026,B,Rafael Camargo
+GalpoesSP Armazenagem,33.444.666/0001-77,Armazenagem Terceirizada,640000,02/02/2022,02/02/2026,A,Marcos Ferreira
+Forma Educação Corporativa,44.555.777/0001-88,Treinamento,N/A,11/11/2023,11/11/2025,B,Adriana Lopes
+Carvalho Auditores,55.666.888/0001-99,Auditoria,89000,24/03/2024,24/03/2026,C,Patricia Andrade
+BrandBoost Agência,66.777.999/0001-00,Marketing,165000,08 de agosto de 2023,08/08/2026,N/A,Carolina Mendes
+ExpressoBR Frete,77.888.111/0001-22,Frete Fracionado,295000,16/02/2023,16-02-2026,B,Carolina Mendes
+TurboPart Auto Peças,88999222000133,Peças,72000,21/05/2024,21/05/2026,C,Thiago Bittencourt
+JusEmpresarial Advocacia,99.000.333/0001-44,Consultoria Jurídica,720000,30/06/2022,30/06/2026,B,Thiago Bittencourt
