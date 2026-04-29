@@ -85,8 +85,7 @@ _(filesystem read, não exige Accessibility permission)_
 
 ### Variante mais ousada
 ```
-Abra meu Calendar no navegador, encontre minha próxima reunião com o
-board, e drafte (sem enviar) a pauta dela em um e-mail novo.
+Abra meu Calendar no navegador, encontre minha próxima reunião com [nome], e drafte (sem enviar) a pauta dela em um e-mail novo.
 ```
 
 ---
